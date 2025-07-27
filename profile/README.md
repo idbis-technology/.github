@@ -100,10 +100,4 @@ Kami selalu menggunakan teknologi modern dan relevan untuk memberikan hasil terb
 
 Tertarik untuk berkolaborasi, menggunakan layanan kami, atau sekadar ingin menyapa? Jangan ragu untuk menghubungi kami!
 
-* 🌐 **Situs Web:** [www.idbis-technology.com](https://www.idbis-technology.com) * 📧 **Email:** [contact@idbis-technology.com](mailto:contact@idbis-technology.com) * 🔗 **LinkedIn:** [IDBis Technology](https://www.linkedin.com/company/idbis-technology) <br/>
-
-<p align="center">
-  <a href="https://github.com/idbis-technology">
-    <img src="https://github-readme-stats.vercel.app/api?username=idbis-technology&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
+* 🌐 **Situs Web:** [www.idbis-technology.com](https://www.idbis-technology.com) * 📧 **Email:** [contact@idbis-technology.com](mailto:contact@idbis-technology.com) * 🔗 **LinkedIn:** [IDBis Technology](https://www.linkedin.com/company/idbis-technology) 
