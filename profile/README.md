@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2666b954-2e75-4fa3-aab6-fe8484b45d7b" alt="IDBis Technology Logo" width="200"/>
-</p>
-
 <h1 align="center">Selamat Datang di IDBis Technology</h1>
-
 <p align="center">
   Membangun solusi SaaS yang inovatif dengan keamanan siber sebagai fondasi utama.
   <br />
@@ -14,7 +9,7 @@
 
 ## 👋 Tentang Kami
 
-**IDBis Technology** adalah startup teknologi yang berfokus pada pengembangan produk **Software-as-a-Service (SaaS)** dan penyediaan layanan **keamanan siber (cybersecurity)** terdepan. Misi kami adalah memberdayakan bisnis dengan solusi digital yang tidak hanya canggih dan efisien, tetapi juga tangguh dan aman dari ancaman siber modern.
+**IDBIS Technology** adalah startup teknologi yang berfokus pada pengembangan produk **Software-as-a-Service (SaaS)** dan penyediaan layanan **keamanan siber (cybersecurity)** terdepan. Misi kami adalah memberdayakan bisnis dengan solusi digital yang tidak hanya canggih dan efisien, tetapi juga tangguh dan aman dari ancaman siber modern.
 
 Kami percaya bahwa inovasi sejati lahir ketika fungsionalitas bertemu dengan keamanan. Tim kami terdiri dari para ahli yang bersemangat dalam rekayasa perangkat lunak dan keamanan digital.
 
