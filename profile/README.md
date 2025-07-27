@@ -67,9 +67,15 @@ Kami selalu menggunakan teknologi modern dan relevan untuk memberikan hasil terb
   <a href="https://www.ibm.com/products/db2" target="_blank"><img src="https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM DB2"/></a>
   <a href="https://cassandra.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Apache Cassandra"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
-  <a href="https://clickhouse.com/" target="_blank"><img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse"/></a>
   <a href="https://www.influxdata.com/" target="_blank"><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB"/></a>
   <a href="https://www.timescale.com/" target="_blank"><img src="https://img.shields.io/badge/Timescale-FF8800?style=for-the-badge&logo=timescale&logoColor=white" alt="TimescaleDB"/></a>
+  <a href="https://couchdb.apache.org/" target="_blank"><img src="https://img.shields.io/badge/CouchDB-D22128?style=for-the-badge&logo=apachecouchdb&logoColor=white" alt="CouchDB"/></a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="Amazon DynamoDB"/></a>
+  <a href="https://clickhouse.com/" target="_blank"><img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse"/></a>
+  <a href="https://www.snowflake.com/" target="_blank"><img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/></a>
+  <a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google BigQuery"/></a>
+  <a href="https://aws.amazon.com/redshift/" target="_blank"><img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" alt="Amazon Redshift"/></a>
+  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Apache Cassandra"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/></a>
   <a href="https://pulsar.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache_Pulsar-188FFF?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Pulsar"/></a>
   <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/></a>
