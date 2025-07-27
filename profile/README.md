@@ -86,10 +86,24 @@ Kami selalu menggunakan teknologi modern dan relevan untuk memberikan hasil terb
   <a href="https://memcached.org/" target="_blank"><img src="https://img.shields.io/badge/Memcached-66CC99?style=for-the-badge&logo=memcached&logoColor=white" alt="Memcached"/></a>
   <a href="https://hazelcast.com/" target="_blank"><img src="https://img.shields.io/badge/Hazelcast-0079C1?style=for-the-badge&logo=hazelcast&logoColor=white" alt="Hazelcast"/></a>
   <a href="https://www.varnish-cache.org/" target="_blank"><img src="https://img.shields.io/badge/Varnish-3498DB?style=for-the-badge&logo=varnish&logoColor=white" alt="Varnish Cache"/></a>
+  <a href="https://argo-cd.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/ArgoCD-FE502F?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
+  <a href="https://circleci.com/" target="_blank"><img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </a>
   <a href="https://kubernetes.io" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> </a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
+  <a href="https://opentelemetry.io/" target="_blank"><img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/></a>
+  <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/></a>
+  <a href="https://fly.io/" target="_blank"><img src="https://img.shields.io/badge/Fly.io-01256F?style=for-the-badge&logo=fly.io&logoColor=white" alt="Fly.io"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
+  <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></a>
+  <a href="https://auth0.com/" target="_blank"><img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"/></a>
+  <a href="https://www.keycloak.org/" target="_blank"><img src="https://img.shields.io/badge/Keycloak-0066CC?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/></a>
+  <a href="https://jwt.io/" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/></a>
 </p>
 
 ---
